@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center">
+  <a href="https://github.com/arechesk">
+    <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=arechesk">
+  </a>
+</p>
 [![GitHub Streak](https://streak-stats.demolab.com?user=arechesk&theme=github-dark&locale=ru)](https://git.io/streak-stats)
