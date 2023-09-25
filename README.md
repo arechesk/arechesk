@@ -24,16 +24,6 @@ Here are some ideas to get you started:
 </p>
 
 
-
-
-## 🤝🏻 Connect with me
-
-<div align="center">
-<a href="https://vk.com/unnotigkeit" target="_blank">
-<img src=https://sun9-4.userapi.com/impf/c5260/v5260022/4c6/26NxUTMmSAU.jpg?size=400x582&quality=96&sign=a788ac3d4b4b808ad183ddff5976edd0&type=album style="margin-bottom: 5px;" />
-</a>
-</div>
-
 ## 📈 GitHub Analytics
 [![GitHub Streak](https://streak-stats.demolab.com?user=arechesk&theme=github-dark&locale=ru)](https://git.io/streak-stats)
 
