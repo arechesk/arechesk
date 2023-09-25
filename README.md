@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=arechesk">
   </a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=arechesk&theme=github-dark&locale=ru)](https://git.io/streak-stats)
+
 
 
 
@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 </div>
 
 ## 📈 GitHub Analytics
+[![GitHub Streak](https://streak-stats.demolab.com?user=arechesk&theme=github-dark&locale=ru)](https://git.io/streak-stats)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arechesk&theme=vue&show_icons=true&count_private=true&hide_border=true)](https://github.com/arechesk)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arechesk&layout=compact&theme=vue&count_private=true&langs_count=8&show_icons=true&hide_border=true)](https://github.com/arechesk)
